@@ -1,6 +1,6 @@
 from PIL import Image
 import random as rand
-from math import sin, asin, cos, tan, atan2, atan, log, sqrt, pi
+from math import *
 
 
 SIZE = 1024
